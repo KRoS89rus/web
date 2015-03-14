@@ -1,0 +1,6 @@
+C:\Users\KRoS\Desktop\PWП\задание
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/KRoS89rus/web.git
+git push -u origin master
